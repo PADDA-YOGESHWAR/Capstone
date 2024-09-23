@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Backend\\Community-Communication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\repository\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\repository\\contracts\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\repository\\contracts\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|d:\\project backend\\community-communication\\authapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95DD594-CFAF-4509-8152-3EE749CFBF27}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Repository\\LoginRepository.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\LoginRepository.cs",
+              "RelativeToolTip": "AuthAPI\\Repository\\LoginRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:07:56.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:18:31.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuthAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:30:19.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Repository\\RegisterRepository.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\RegisterRepository.cs",
+              "RelativeToolTip": "AuthAPI\\Repository\\RegisterRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:37:40.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T09:59:00.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T09:29:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\Response.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\Response.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:30:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\UserRoles.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\UserRoles.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\UserRoles.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:34:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:36:25.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:34:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Models\\LoginModel.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:34:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\Contracts\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Repository\\Contracts\\IRegisterRepository.cs",
+              "ToolTip": "D:\\Project Backend\\Community-Communication\\AuthAPI\\Repository\\Contracts\\IRegisterRepository.cs",
+              "RelativeToolTip": "AuthAPI\\Repository\\Contracts\\IRegisterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:37:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
